@@ -61,12 +61,30 @@ Please ensure your JSON files follow the structure outlined in the existing file
 
 ## Personas in this repository
 
-- [examples/assistant](https://chat-ai.academiccloud.de/chat?import=https://raw.githubusercontent.com/gwdg/chat-ai-personas/refs/heads/main/examples/assistant.json):
-Just an example
-- [research/glossary](https://chat-ai.academiccloud.de/chat?import=https://raw.githubusercontent.com/gwdg/chat-ai-personas/refs/heads/main/research/glossary.json): Create short defintions for terms
-- [research/spellfix](https://chat-ai.academiccloud.de/chat?import=https://raw.githubusercontent.com/gwdg/chat-ai-personas/refs/heads/main/research/spellfix.json): Check for errors in text by regeneration and comparison
-- [translation/de_en](https://chat-ai.academiccloud.de/chat?import=https://raw.githubusercontent.com/gwdg/chat-ai-personas/refs/heads/main/translation/de_en.json): Simple German to English translator
-- [translation/en_de](https://chat-ai.academiccloud.de/chat?import=https://raw.githubusercontent.com/gwdg/chat-ai-personas/refs/heads/main/translation/en_de.json): Simple English to German translator
+By clicking on the following links, you can summon persona from this repository.
+
+- Examples
+    - [examples/assistant]: Just an example
+    - [examples/assistant-new]: Same asabove but with "info" text
+    - [examples/annoyingmonster]: Annoying monster who only speaks in riddles
+    - [examples/highsocietysnob]: An unpleasent celebrity
+    - [examples/passiveagressiveboss]: An unpleasent boss
+- Research
+    - [research/glossary]: Create short defintions for terms
+    - [research/spellfix]: Check for errors in text by regeneration and comparison
+- Translations
+    - [translations/de_en]: Simple German to English translator
+    - [translations/en_de]: Simple English to German translator
+
+[examples/assistant]: https://chat-ai.academiccloud.de/chat?import=https://raw.githubusercontent.com/gwdg/chat-ai-personas/refs/heads/main/examples/assistant.json
+[examples/assistant-new]: https://chat-ai.academiccloud.de/chat?import=https://raw.githubusercontent.com/gwdg/chat-ai-personas/refs/heads/main/examples/assistant-new.json
+[examples/annoyingmonster]: https://chat-ai.academiccloud.de/chat?import=https://raw.githubusercontent.com/gwdg/chat-ai-personas/refs/heads/main/examples/annoyingmonster.json
+[examples/highsocietysnob]: https://chat-ai.academiccloud.de/chat?import=https://raw.githubusercontent.com/gwdg/chat-ai-personas/refs/heads/main/examples/highsocietysnob.json
+[examples/passiveagressiveboss]: https://chat-ai.academiccloud.de/chat?import=https://raw.githubusercontent.com/gwdg/chat-ai-personas/refs/heads/main/examples/passiveagressiveboss.json
+[research/glossary]: https://chat-ai.academiccloud.de/chat?import=https://raw.githubusercontent.com/gwdg/chat-ai-personas/refs/heads/main/research/glossary.json
+[research/spellfix]: https://chat-ai.academiccloud.de/chat?import=https://raw.githubusercontent.com/gwdg/chat-ai-personas/refs/heads/main/research/spellfix.json
+[translations/de_en]: https://chat-ai.academiccloud.de/chat?import=https://raw.githubusercontent.com/gwdg/chat-ai-personas/refs/heads/main/translation/de_en.json
+[translations/en_de]: https://chat-ai.academiccloud.de/chat?import=https://raw.githubusercontent.com/gwdg/chat-ai-personas/refs/heads/main/translation/en_de.json
 
 ## License
 
